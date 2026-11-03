@@ -1,0 +1,3 @@
+{"id": "Q1", "text": "Which error means the API key is invalid?", "gold": [{"doc_id": "D1", "text": "Error 401 means the API key is invalid"}], "tags": ["error-code"]}
+{"id": "Q2", "text": "How do I rotate my API key?", "gold": [{"doc_id": "D2", "text": "To rotate an API key, open the dashboard"}], "tags": ["procedure"]}
+{"id": "Q3", "text": "What is the free tier rate limit?", "gold": [{"doc_id": "D3", "text": "The free tier allows 60 requests per minute"}], "tags": ["limits"]}

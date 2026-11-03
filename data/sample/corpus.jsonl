@@ -1,0 +1,3 @@
+{"id": "D1", "text": "Error 401 means the API key is invalid or missing. Error 429 means you sent too many requests. Retry after a delay.", "meta": {"source": "api-errors.md"}}
+{"id": "D2", "text": "To rotate an API key, open the dashboard, select Settings, then click Rotate key. Old keys stop working immediately.", "meta": {"source": "key-rotation.md"}}
+{"id": "D3", "text": "Rate limits are measured per minute. The free tier allows 60 requests per minute. Enterprise tier allows 6000 requests per minute.", "meta": {"source": "rate-limits.md"}}
